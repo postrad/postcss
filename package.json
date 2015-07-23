@@ -1,0 +1,24 @@
+{
+  "name": "postcss",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "postcss": "^4.1.16"
+  },
+  "devDependencies": {
+    "autoprefixer": "^5.2.0",
+    "cssnano": "^2.1.0",
+    "cssnext": "^1.8.2",
+    "gulp": "^3.9.0",
+    "gulp-postcss": "^5.1.10",
+    "postcss-reporter": "^0.3.1",
+    "precss": "^0.3.0",
+    "stylelint": "^0.3.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
